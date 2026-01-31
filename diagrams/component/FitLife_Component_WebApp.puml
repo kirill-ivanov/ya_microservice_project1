@@ -1,0 +1,3 @@
+@startuml
+Bob->Alica:Hello
+@enduml
